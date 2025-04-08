@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="coding-cat" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ2NjFxNXMzMnRvN2F1YWllZnFwOTN2b2IxdjIzaHY0dTB1ZHN3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7523KEOFginbjFQc/giphy.gif" width="100" alt="coding-cat" />
 </div>
 
 <h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
@@ -167,15 +167,6 @@
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LauraSchiavon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="center" 
