@@ -1,8 +1,9 @@
-# 👩🏻‍💻 Laura Schiavon
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="coding-cat" />
+</div>
 
-**`Desenvolvedora Front-End`**
-
-Me chamo Laura Schiavon, tenho 22 anos e sou de Bariri-SP. Sou formada em Ciência da Computação pela Unisagrado e atualmente atuo como desenvolvedora front-end.
+<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<p align="center"><i>Desenvolvedora Front-End | Ciência da Computação</i></p>
 
 
 <div> 
@@ -182,4 +183,10 @@ Me chamo Laura Schiavon, tenho 22 anos e sou de Bariri-SP. Sou formada em Ciênc
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSchiavon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
 
