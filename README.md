@@ -2,8 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ2NjFxNXMzMnRvN2F1YWllZnFwOTN2b2IxdjIzaHY0dTB1ZHN3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7523KEOFginbjFQc/giphy.gif" width="100" alt="coding-cat" />
 </div>
 
-<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
- <p>
+ <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&multiline=true&repeat=true&width=435&lines=👩‍💻+Olá!+Eu+sou+a+Laura+Schiavon!;-----------------------------" />
   </p>
 <p align="center"><i>Desenvolvedora Front-End | Ciência da Computação</i></p>
@@ -180,8 +179,8 @@
   />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraSchiavon/LauraSchiavon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LauraSchiavon/LauraSchiavon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LauraSchiavon/LauraSchiavon/output/pacman-contribution-graph.svg">
 </picture>
 
