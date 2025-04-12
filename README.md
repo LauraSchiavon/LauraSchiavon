@@ -17,7 +17,7 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LauraSchiavon}/count.svg" /></p> 
   <br>
 </div>
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
