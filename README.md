@@ -4,12 +4,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&multiline=true&repeat=true&width=435&lines=👩‍💻+Olá!+Eu+sou+a+Laura+Schiavon!;-----------------------------" />
   <p><i>Desenvolvedora Front-End | Ciência da Computação</i></p>
-  <img src ="https://visitor-badge.laobi.icu/badge?page_id=LauraSchiavon&"  />
+  
 </div>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/laura-lonardoni-paulino-schiavon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lauraschiavon00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src ="https://visitor-badge.laobi.icu/badge?page_id=LauraSchiavon&"  />
 </div>
 
 ---
