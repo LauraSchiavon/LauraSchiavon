@@ -3,7 +3,11 @@
 </div>
 
 <h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+ <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&multiline=true&repeat=true&width=435&lines=👩‍💻+Olá!+Eu+sou+a+Laura+Schiavon!;-----------------------------" />
+  </p>
 <p align="center"><i>Desenvolvedora Front-End | Ciência da Computação</i></p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=LauraSchiavon&"  />
 
 
 <div align="center"> 
