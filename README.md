@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/laura-lonardoni-paulino-schiavon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lauraschiavon00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LauraSchiavon}/count.svg" /></p> 
@@ -150,15 +151,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
           
-
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
+<div style="display: inline_block" align="center"><br>
+  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+</div>
+ <br>
 
 <img 
     align="left" 
