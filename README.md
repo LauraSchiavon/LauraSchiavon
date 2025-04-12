@@ -11,7 +11,9 @@
   <a href="https://www.linkedin.com/in/laura-lonardoni-paulino-schiavon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lauraschiavon00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<img src ="https://visitor-badge.laobi.icu/badge?page_id=LauraSchiavon&"  />
+<div align="center"> 
+  <img src ="https://visitor-badge.laobi.icu/badge?page_id=LauraSchiavon&"  />
+</div>
 
 ---
 
@@ -178,8 +180,8 @@
   />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraSchiavon/LauraSchiavon/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LauraSchiavon/LauraSchiavon/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LauraSchiavon/LauraSchiavon/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraSchiavon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LauraSchiavon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LauraSchiavon/output/pacman-contribution-graph.svg">
 </picture>
 
