@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4079a8&center=true&multiline=true&repeat=true&width=435&lines=👩‍💻+Olá!+Eu+sou+a+Laura+Schiavon!;-----------------------------" />
   <p><i>Desenvolvedora Front-End | Ciência da Computação</i></p>
-  
 </div>
 
 <div align="center"> 
@@ -31,7 +30,7 @@
   <img  alt="SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
   <img  alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">&nbsp;
   <img  alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">&nbsp;
-  <img  alt="Canva" src="	https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">&nbsp;
+  <img  alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">&nbsp;
   <img  alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
   <img  alt="Cyprees" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">&nbsp;
   <img  alt="Electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">&nbsp;
