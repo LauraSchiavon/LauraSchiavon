@@ -1,8 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ2NjFxNXMzMnRvN2F1YWllZnFwOTN2b2IxdjIzaHY0dTB1ZHN3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7523KEOFginbjFQc/giphy.gif" width="100" alt="coding-cat" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&multiline=true&repeat=true&width=435&lines=👩‍💻+Olá!+Eu+sou+a+Laura+Schiavon!;-----------------------------" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4079a8&center=true&multiline=true&repeat=true&width=435&lines=👩‍💻+Olá!+Eu+sou+a+Laura+Schiavon!;-----------------------------" />
   <p><i>Desenvolvedora Front-End | Ciência da Computação</i></p>
   
 </div>
@@ -11,10 +12,11 @@
   <a href="https://www.linkedin.com/in/laura-lonardoni-paulino-schiavon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lauraschiavon00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<div align="center"> 
-  <img src ="https://visitor-badge.laobi.icu/badge?page_id=LauraSchiavon&"  />
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larialbu}/count.svg" /></p> 
+  <br>
 </div>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -179,9 +181,5 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSchiavon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraSchiavon/LauraSchiavon/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LauraSchiavon/LauraSchiavon/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/LauraSchiavon/LauraSchiavon/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
 
