@@ -6,7 +6,7 @@
   <a href = "mailto:lauraschiavon00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4079a8&center=true&multiline=true&repeat=true&width=435&lines=👩‍💻+Olá!+Eu+sou+a+Laura+Schiavon!;-----------------------------" />
+ 
   <p><i>Desenvolvedora Front-End | Ciência da Computação</i></p>
 </div>
 
