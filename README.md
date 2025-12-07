@@ -1,4 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=navbar"/>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/laura-lonardoni-paulino-schiavon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lauraschiavon00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4079a8&center=true&multiline=true&repeat=true&width=435&lines=👩‍💻+Olá!+Eu+sou+a+Laura+Schiavon!;-----------------------------" />
   <p><i>Desenvolvedora Front-End | Ciência da Computação</i></p>
@@ -38,5 +42,17 @@
   <img  alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">&nbsp;
 </div>
 
+### 📊 Estatísticas
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LauraSchiavon}/count.svg" /></p> 
+  <br>
+</div>
+<div align="center">
+  <a href="https://github.com/LauraSchiavon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraSchiavon&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSchiavon&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
 
